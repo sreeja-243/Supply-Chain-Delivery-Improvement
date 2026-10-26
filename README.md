@@ -215,7 +215,7 @@ Used for:
 
 - [Business Analysis Documentation (PDF)](https://github.com/sreeja-243/Supply-Chain-Delivery-Improvement/blob/main/Documentation/Supply%20chain.pdf): business problem, stakeholders, requirements, AS-IS/TO-BE, user stories, acceptance criteria
 - [Excel Analysis (Google Drive)](https://drive.google.com/file/d/10meYK7x9f-eWGczvT6QmOyZoebiSzOmY/view?usp=sharing): delivery performance analysis (download to open)
-- [SQL Analysis](https://github.com/sreeja-243/Supply-Chain-Delivery-Improvement/blob/main/SQL/Supply_Chain_Delivery_Performance_Analysis..sql): PostgreSQL queries for KPIs, segmentation and findings
+- [SQL Analysis](https://github.com/sreeja-243/Supply-Chain-Delivery-Improvement/blob/main/SQL/Supply_Chain_Delivery_Performance_Analysis.sql): PostgreSQL queries for KPIs, segmentation and findings
 ## Data Limitations
 
 The source dataset does **not contain a Shipping Cost field**. Therefore, shipping cost was not included in the quantitative analysis.
